@@ -1,5 +1,5 @@
 ## Tongji AI + Climate Lab
 
-[https://tianxing.tongji.edu.cn/](https://tianxing.tongji.edu.cn/)
+[Tianxing Weather Forecast Website](https://tianxing.tongji.edu.cn/)
 
-[https://tianxing.tongji.edu.cn/tian_xing](https://tianxing.tongji.edu.cn/tian_xing/)
+[Laboratory Homepage](https://tianxing.tongji.edu.cn/tian_xing/)
